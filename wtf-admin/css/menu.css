@@ -1,0 +1,16 @@
+#main{
+  position:relative;
+  width:900px;
+}
+#menu_list{
+  padding:20px;
+  background:#fff;
+}
+.content_area{
+  margin-top:30px;
+  display:none;
+}
+.content_area textarea{
+  width:98%;
+  height:300px;
+}

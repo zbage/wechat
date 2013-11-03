@@ -1,0 +1,80 @@
+thead {
+  font-size: 16px;
+}
+
+.main {
+  margin-top: 50px;
+  border-radius: 5px;
+}
+.container {
+  width: 800px;
+}
+
+/* menu settings */
+#menu{
+  position:relative;
+}
+#menu_list{
+  padding:20px;
+  background:#fff;
+}
+
+.content_area{
+  margin-top:30px;
+  display:none;
+}
+.content_area textarea{
+  width:98%;
+  height:300px;
+}
+
+.btn-sub {
+  margin-right: 10px;
+}
+
+/* menu settings ends */
+
+/* message settings */
+#message {
+  padding: 20px auto;
+}
+
+#feedList {
+  width: 800px;
+  margin-bottom: 50px;
+}
+
+#message ul{
+  margin-left: 0px;
+}
+.message_item{
+  overflow:auto;
+}
+.message_info{
+  width: 600px;
+  float: left;
+  font-family: "Microsoft YaHei", "微软雅黑", Helvetica, "黑体", Arial, Tahoma;
+  font-size: 14px;
+  color: #222222;
+}
+.message_user{
+}
+.message_content{
+  color: #7b7b7b;
+}
+.message_time{
+  color: #7b7b7b;
+  text-align: right;
+}
+.message_reply{
+  text-align: right;
+}
+.message_list hr {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.message_item li{
+  display: list-item;
+}
+
+/* message settings ends */
